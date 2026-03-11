@@ -1,0 +1,5 @@
+This assignment is downloaded from, and submitted to, MarkUsLinks to an external site.. After completing this assignment, you should be able to:
+
+Design and implement a page table.
+Implement a memory manager that uses a page table to achieve demand paging of memory accesses and handle evictions when physical memory is full.
+Implement the Clock and Simplified 2Q replacement algorithms to use during evictions

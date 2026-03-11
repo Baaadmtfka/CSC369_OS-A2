@@ -1,0 +1,12 @@
+cmake-build*
+
+# IDE generated files
+.vscode
+.idea
+
+# Mac OS X
+.DS_Store
+
+# trace files and swap files
+*.ref
+swapfile*
