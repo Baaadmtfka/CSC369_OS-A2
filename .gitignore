@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.obj
+
+# Archives (regenerate from source instead of tracking)
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
